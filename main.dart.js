@@ -28816,7 +28816,7 @@ A.eU.prototype={
 aw(){return new A.uI(new A.bs(null,t.E),A.a([],t.qn),A.as(t.pd),A.adZ(),null,null,B.l)}}
 A.uI.prototype={
 gbP(){var s=this.z
-return s===$?this.z=A.IJ(null,6,0.5,40,null):s},
+return s===$?this.z=A.IJ(null,3,0.5,40,null):s},
 Nn(a){var s,r=this.at
 r===$&&A.d()
 s=r.Q
@@ -28954,8 +28954,8 @@ j.at=A.cL(i,i,i,i,j)
 switch("Classic"){case"Line":for(s=j.gbP().f,r=s.length,q=t.kQ,p=t.qn,o=0;o<s.length;s.length===r||(0,A.B)(s),++o){n=s[o]
 m=n.c
 if(m>1||m<-1){l=j.z
-if(l===$){l=new A.l7(6,40,0.5,A.a([],q),i,A.a([],p))
-l.qF(i,6,0.5,40,i)
+if(l===$){l=new A.l7(3,40,0.5,A.a([],q),i,A.a([],p))
+l.qF(i,3,0.5,40,i)
 j.z=l}j.z=l.fe(n,3)}}s=j.gbP()
 r=j.gbP().dY(0,-1)
 r.toString
@@ -28965,7 +28965,7 @@ s=j.gbP().dY(0,1)
 s.toString
 j.z=r.fe(s,1)
 break
-case"Clasic":s=j.gbP()
+case"Classic":s=j.gbP()
 r=j.gbP().dY(0,-j.gbP().a)
 r.toString
 j.z=s.fe(r,0)
@@ -28983,8 +28983,8 @@ m=m<0||m>3}else m=!1
 else m=!0}else m=!0
 else m=!0
 if(m){l=j.z
-if(l===$){l=new A.l7(6,40,0.5,A.a([],q),i,A.a([],p))
-l.qF(i,6,0.5,40,i)
+if(l===$){l=new A.l7(3,40,0.5,A.a([],q),i,A.a([],p))
+l.qF(i,3,0.5,40,i)
 j.z=l}j.z=l.fe(n,3)}}break
 default:break}},
 t4(a,b,c){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=A.k2(a,!1)
