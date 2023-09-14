@@ -37965,7 +37965,7 @@ s.bb()}}
 A.AS.prototype={
 G(){return"ButtonTextTheme."+this.b}}
 A.AT.prototype={
-gec(a){switch(0){case 0:case 1:return B.DS}},
+gec(a){switch(0){case 0:case 1:return B.DT}},
 gd0(a){switch(0){case 0:case 1:return B.Sv}},
 l(a,b){var s=this
 if(b==null)return!1
@@ -40832,7 +40832,7 @@ case 0:case 1:case 2:return 32}},
 Pj(){var s=this.c
 s.toString
 switch(A.aV(s).r.a){case 4:case 3:case 5:return B.DY
-case 0:case 1:case 2:return B.DT}},
+case 0:case 1:case 2:return B.DU}},
 BG(){var s=this.c
 s.toString
 switch(A.aV(s).r.a){case 4:case 3:case 5:return 12
@@ -56661,8 +56661,8 @@ s.bb()}}
 A.oK.prototype={
 aA(){return new A.Po(B.p)}}
 A.Po.prototype={
-K(a){var s=this,r=null,q=A.f6(a,B.cl,t.wr),p=A.Aj(!0,B.Xy),o=t.D,n=A.a3M(A.a([s.rC(a,"ru"),s.rC(a,"en"),s.rC(a,"es"),s.rC(a,"de")],o),B.cy,B.ex,B.cU),m=A.fc(r,20,r)
-return A.JC(p,r,A.hO(A.lU(A.a([n,m,A.Fj(!1,!0,A.lU(A.a([A.akt(200,new A.lH(A.kS(a,!0,t.eC).a?"assets/img/hexagame_dark.png":"assets/img/hexagame.png",r,r))],o),B.bd,B.be),r,!0,r,r,r,r,r,r,r,r,r,new A.a9Y(s,a),r,B.c6,r,r),A.fc(r,20,r),new A.ib(q.gt0(),new A.K8(r),r),new A.ib(q.gtx(),new A.j8(0,r),r),new A.ib(q.goo(q),new A.Jz(r),r),new A.ib(q.grK(),new A.uy(r),r)],o),B.bd,B.cU),r,r),r)},
+K(a){var s=this,r=null,q=A.f6(a,B.cl,t.wr),p=A.Aj(!0,B.Xy),o=t.D,n=A.a3M(A.a([s.rC(a,"ru"),s.rC(a,"en"),s.rC(a,"es"),s.rC(a,"de")],o),B.cy,B.ex,B.cU),m=A.fc(r,3,r)
+return A.JC(p,r,A.hO(A.lU(A.a([n,m,A.Fj(!1,!0,A.lU(A.a([A.akt(200,new A.lH(A.kS(a,!0,t.eC).a?"assets/img/hexagame_dark.png":"assets/img/hexagame.png",r,r))],o),B.bd,B.be),r,!0,r,r,r,r,r,r,r,r,r,new A.a9Y(s,a),r,B.c6,r,r),A.fc(r,3,r),new A.ib(q.gt0(),new A.K8(r),r),new A.ib(q.gtx(),new A.j8(0,r),r),new A.ib(q.goo(q),new A.Jz(r),r),new A.ib(q.grK(),new A.uy(r),r)],o),B.bd,B.cU),r,r),r)},
 rC(a,b){var s=null
 return new A.KF(new A.aa0(this,a,b),s,s,s,s,B.M,s,!1,s,new A.dI(B.b3,A.nc(b.toUpperCase(),A.aV(a).p3.z.Wp(16),s),s),s)}}
 A.a9Y.prototype={
@@ -56737,7 +56737,7 @@ K(a){var s=null,r=A.f6(a,B.cl,t.wr)
 return A.JC(A.Aj(!0,A.nc(r.goR(),s,s)),s,A.hO(A.lU(A.a([new A.ib(r.gr0().toUpperCase(),new A.j8(1,s),s),new A.ib(r.grP().toUpperCase(),new A.j8(2,s),s),new A.ib(r.gro().toUpperCase(),new A.j8(3,s),s)],t.D),B.bd,B.be),s,s),s)}}
 A.ib.prototype={
 K(a){var s=null
-return new A.dI(B.DU,new A.Ea(new A.a1_(this,a),s,s,s,s,B.M,s,!1,s,A.fc(new A.dI(B.DZ,A.nc(this.c,A.c1(s,s,s,s,s,s,s,s,s,s,s,33,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.dg),s),s,230),s),s)},
+return new A.dI(B.DS,new A.Ea(new A.a1_(this,a),s,s,s,s,B.M,s,!1,s,A.fc(new A.dI(B.DZ,A.nc(this.c,A.c1(s,s,s,s,s,s,s,s,s,s,s,33,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.dg),s),s,230),s),s)},
 Sc(a,b){A.kJ(a,!1).k0(A.a0L(new A.a0Z(b),null,t.z))}}
 A.a1_.prototype={
 $0(){var s=this.a
@@ -63271,9 +63271,9 @@ B.DP=new A.b2(-38e3)
 B.aT=new A.b9(0,0,0,0)
 B.DQ=new A.b9(0,20,0,0)
 B.DR=new A.b9(0,48,0,0)
-B.DS=new A.b9(16,0,16,0)
-B.DT=new A.b9(16,4,16,4)
-B.DU=new A.b9(18,18,18,18)
+B.DS=new A.b9(10,10,10,10)
+B.DT=new A.b9(16,0,16,0)
+B.DU=new A.b9(16,4,16,4)
 B.DV=new A.b9(20,0,20,0)
 B.DW=new A.b9(4,0,4,0)
 B.DX=new A.b9(8,0,8,0)
